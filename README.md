@@ -10,8 +10,8 @@ Welcome to the **Expense Tracker**, a web application designed to help you manag
 - **Easy Expense Entry**: Add, edit, and delete your expenses with ease.
 - **Expense Categories**: Organize your spending into different categories such as food, entertainment, transportation, and more.
 - **Real-Time Budget Tracking**: Set and track your monthly budgets to stay on top of your financial goals.
-- **Interactive Data Visualization**: Visualize your expenses with interactive charts and graphs to understand your spending habits.
-- **Responsive Design**: The application is fully responsive, providing a seamless experience on desktop, tablet, and mobile devices.
+- **Interactive Data Visualization**: Visualize your expenses with interactive pie charts to understand your spending habits.
+- **Responsive Design**: The application is providing a seamless experience on desktop only.
 
 ## Technologies Used
 
